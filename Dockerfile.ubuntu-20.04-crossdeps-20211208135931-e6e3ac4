@@ -1,2 +1,2 @@
 # Tags: ubuntu-20.04-crossdeps-20211208135931-e6e3ac4
-FROM dotnet-buildtools/prereqs:ubuntu-20.04-crossdeps-20211208135931-e6e3ac4
+FROM mcr.microsoft.com/dotnet-buildtools/prereqs:ubuntu-20.04-crossdeps-20211208135931-e6e3ac4

@@ -1,2 +1,2 @@
 # Tags: windowsservercore-2004-helix-amd64-20211208140215-5f35d1a
-FROM dotnet-buildtools/prereqs:windowsservercore-2004-helix-amd64-20211208140215-5f35d1a
+FROM mcr.microsoft.com/dotnet-buildtools/prereqs:windowsservercore-2004-helix-amd64-20211208140215-5f35d1a

@@ -1,2 +1,2 @@
 # Tags: alpine-3.13-WithNode-20211202203759-c401c85
-FROM dotnet-buildtools/prereqs:alpine-3.13-WithNode-20211202203759-c401c85
+FROM mcr.microsoft.com/dotnet-buildtools/prereqs:alpine-3.13-WithNode-20211202203759-c401c85

@@ -1,2 +1,2 @@
 # Tags: ubuntu-21.04-helix-amd64-20211116135056-34a2d72
-FROM dotnet-buildtools/prereqs:ubuntu-21.04-helix-amd64-20211116135056-34a2d72
+FROM mcr.microsoft.com/dotnet-buildtools/prereqs:ubuntu-21.04-helix-amd64-20211116135056-34a2d72

@@ -1,2 +1,2 @@
 # Tags: alpine-3.14-helix-arm64v8-20211202204007-8a6f4f3
-FROM dotnet-buildtools/prereqs:alpine-3.14-helix-arm64v8-20211202204007-8a6f4f3
+FROM mcr.microsoft.com/dotnet-buildtools/prereqs:alpine-3.14-helix-arm64v8-20211202204007-8a6f4f3
