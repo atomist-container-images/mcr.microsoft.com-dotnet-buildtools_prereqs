@@ -1,2 +1,2 @@
-# Tags: alpine-3.15-20211202203801-f0ea7ba
+# Tags: [object Object]
 FROM mcr.microsoft.com/dotnet-buildtools/prereqs:alpine-3.15-20211202203801-f0ea7ba

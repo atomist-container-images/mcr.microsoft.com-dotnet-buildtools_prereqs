@@ -1,2 +1,2 @@
-# Tags: centos-8-source-build-20211118190102-9355e7b
+# Tags: [object Object]
 FROM mcr.microsoft.com/dotnet-buildtools/prereqs:centos-8-source-build-20211118190102-9355e7b

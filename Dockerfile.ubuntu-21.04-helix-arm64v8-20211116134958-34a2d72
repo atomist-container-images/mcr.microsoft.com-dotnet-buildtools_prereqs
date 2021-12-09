@@ -1,2 +1,2 @@
-# Tags: ubuntu-21.04-helix-arm64v8-20211116134958-34a2d72
+# Tags: [object Object]
 FROM mcr.microsoft.com/dotnet-buildtools/prereqs:ubuntu-21.04-helix-arm64v8-20211116134958-34a2d72
