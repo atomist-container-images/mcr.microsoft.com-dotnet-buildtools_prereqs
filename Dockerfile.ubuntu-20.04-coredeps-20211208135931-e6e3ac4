@@ -1,0 +1,2 @@
+# Tags: ubuntu-20.04-coredeps-20211208135931-e6e3ac4
+FROM dotnet-buildtools/prereqs:ubuntu-20.04-coredeps-20211208135931-e6e3ac4

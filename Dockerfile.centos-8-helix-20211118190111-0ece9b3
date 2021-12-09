@@ -1,0 +1,2 @@
+# Tags: centos-8-helix-20211118190111-0ece9b3
+FROM dotnet-buildtools/prereqs:centos-8-helix-20211118190111-0ece9b3

@@ -1,0 +1,2 @@
+# Tags: windowsservercore-2004-helix-webassembly-amd64-20211208140215-544b18c
+FROM dotnet-buildtools/prereqs:windowsservercore-2004-helix-webassembly-amd64-20211208140215-544b18c

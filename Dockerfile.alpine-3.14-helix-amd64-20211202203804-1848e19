@@ -1,0 +1,2 @@
+# Tags: alpine-3.14-helix-amd64-20211202203804-1848e19
+FROM dotnet-buildtools/prereqs:alpine-3.14-helix-amd64-20211202203804-1848e19

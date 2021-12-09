@@ -1,0 +1,2 @@
+# Tags: fedora-33-20211118185937-031e7d2
+FROM dotnet-buildtools/prereqs:fedora-33-20211118185937-031e7d2

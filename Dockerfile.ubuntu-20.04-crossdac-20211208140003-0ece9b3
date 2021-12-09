@@ -1,0 +1,2 @@
+# Tags: ubuntu-20.04-crossdac-20211208140003-0ece9b3
+FROM dotnet-buildtools/prereqs:ubuntu-20.04-crossdac-20211208140003-0ece9b3

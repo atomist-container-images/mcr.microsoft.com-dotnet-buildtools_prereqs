@@ -1,0 +1,2 @@
+# Tags: fedora-33-helix-20211118185937-a9df267
+FROM dotnet-buildtools/prereqs:fedora-33-helix-20211118185937-a9df267
