@@ -1,2 +1,2 @@
-# Tags: [object Object]
+# Tags: fedora-33-20211118185937-031e7d2
 FROM mcr.microsoft.com/dotnet-buildtools/prereqs:fedora-33-20211118185937-031e7d2

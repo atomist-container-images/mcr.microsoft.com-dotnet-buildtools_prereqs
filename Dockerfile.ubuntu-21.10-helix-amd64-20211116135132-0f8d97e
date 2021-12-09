@@ -1,2 +1,2 @@
-# Tags: [object Object]
+# Tags: ubuntu-21.10-helix-amd64-20211116135132-0f8d97e
 FROM mcr.microsoft.com/dotnet-buildtools/prereqs:ubuntu-21.10-helix-amd64-20211116135132-0f8d97e

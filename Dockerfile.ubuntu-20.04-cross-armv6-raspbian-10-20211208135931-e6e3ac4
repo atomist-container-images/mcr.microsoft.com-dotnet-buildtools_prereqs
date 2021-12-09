@@ -1,2 +1,2 @@
-# Tags: [object Object]
+# Tags: ubuntu-20.04-cross-armv6-raspbian-10-20211208135931-e6e3ac4
 FROM mcr.microsoft.com/dotnet-buildtools/prereqs:ubuntu-20.04-cross-armv6-raspbian-10-20211208135931-e6e3ac4

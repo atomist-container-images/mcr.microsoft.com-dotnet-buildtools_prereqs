@@ -1,2 +1,2 @@
-# Tags: [object Object]
+# Tags: centos-stream9-20211112165747-f1b37de
 FROM mcr.microsoft.com/dotnet-buildtools/prereqs:centos-stream9-20211112165747-f1b37de

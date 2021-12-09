@@ -1,2 +1,2 @@
-# Tags: [object Object]
+# Tags: alpine-3.12-helix-arm32v7-20211202204404-97d8652
 FROM mcr.microsoft.com/dotnet-buildtools/prereqs:alpine-3.12-helix-arm32v7-20211202204404-97d8652
