@@ -1,2 +1,0 @@
-# Tags: centos-8-20211118190102-9355e7b
-FROM mcr.microsoft.com/dotnet-buildtools/prereqs:centos-8-20211118190102-9355e7b

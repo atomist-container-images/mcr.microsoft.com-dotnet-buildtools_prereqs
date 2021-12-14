@@ -1,2 +1,0 @@
-# Tags: alpine-3.14-WithNode-20211202203804-c401c85
-FROM mcr.microsoft.com/dotnet-buildtools/prereqs:alpine-3.14-WithNode-20211202203804-c401c85

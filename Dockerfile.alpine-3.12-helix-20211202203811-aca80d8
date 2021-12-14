@@ -1,2 +1,0 @@
-# Tags: alpine-3.12-helix-20211202203811-aca80d8
-FROM mcr.microsoft.com/dotnet-buildtools/prereqs:alpine-3.12-helix-20211202203811-aca80d8

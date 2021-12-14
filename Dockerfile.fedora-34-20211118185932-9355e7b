@@ -1,2 +1,0 @@
-# Tags: fedora-34-20211118185932-9355e7b
-FROM mcr.microsoft.com/dotnet-buildtools/prereqs:fedora-34-20211118185932-9355e7b
